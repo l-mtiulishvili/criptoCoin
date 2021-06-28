@@ -1,0 +1,15 @@
+#tbl tbody tr{
+    cursor: pointer;
+}
+
+#tbl tbody tr:hover{
+   background-color: greenyellow;
+}
+
+.fa-trash-alt{
+    color: red;
+}
+
+#infoTbl tbody .fa-trash-alt{
+    cursor: pointer;
+}
